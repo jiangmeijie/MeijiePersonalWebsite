@@ -1,7 +1,7 @@
 ---
 title: Dr. JIANG Meijie 蒋梅杰
 role: Doctor of Law by Universitat Pompeu Fabra
-avatar_filename: 一寸照.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
