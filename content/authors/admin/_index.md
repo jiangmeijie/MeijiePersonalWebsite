@@ -12,11 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Email me
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&authuser=2&user=i0BfejkAAAAJ
     label: Google Scholar
-  - icon: github
+  - icon: orcid
     icon_pack: ai
     link: https://github.com/gcushen
   - icon: linkedin
@@ -25,9 +26,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: PhD in Artificial Intelligence
