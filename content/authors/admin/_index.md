@@ -1,5 +1,5 @@
 ---
-title: Dr. JIANG Meijie 蒋梅杰
+title: JIANG Meijie 蒋梅杰
 role: Doctor of Law by Universitat Pompeu Fabra
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
@@ -52,6 +52,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Meijie (pronunciation \[‘mei’dʒie]). Remember there is an E at the end (Don’t confuse it with Japanese dynasty Meiji). I obtained my doctoral degree with international mention at Universitat Pompeu Fabra in Barcelona. As a member of the research group on Public International Law and International Relations of Law Department, my research interests include China-Latin America relations, international relations, foreign policy, political discourse, media, etc. I received my Bachelor’s Degree in Spanish language and literature from Sun Yat-sen University (China) in 2014 and my Master Degree in Latin American international relations from Universidad Rey Juan Carlos (Spain) in 2017. I am also a lecturer in the Department of Humanities, responsibles for subjects of the Master Program in Asia-Pacific Studies.
 {style="text-align: justify;"}
