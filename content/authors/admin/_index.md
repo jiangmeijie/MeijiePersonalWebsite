@@ -19,13 +19,12 @@ social:
     label: Google Scholar
   - icon: orcid
     icon_pack: ai
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0003-0817-5086
+    label: ORCID
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/meijiejiang/
+    label: Linkedin
 organizations: []
 education:
   courses:
