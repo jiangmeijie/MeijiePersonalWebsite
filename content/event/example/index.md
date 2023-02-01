@@ -13,7 +13,7 @@ slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Do institutional distances matter for Chinese FDI in Latin America?
-location: ", IBEI, Barcelona"
+location: Institut Barcelona d' Estudis Internacionals, Spain
 date: 2022-06-09T13:00:00.000Z
 date_end: 2022-06-09T14:00:00.000Z
 all_day: false
@@ -35,19 +35,8 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
+  filename: cied-presentation.webp
 url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
