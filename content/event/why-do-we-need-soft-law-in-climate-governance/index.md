@@ -20,7 +20,7 @@ publishDate: 2023-02-01T16:46:37.453Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: seminar-2021-soft-law.webp
   focal_point: Smart
   preview_only: false
 ---
