@@ -9,7 +9,7 @@ abstract: "I created an analytical framework integrating political, economic and
   distance is significantly and negatively correlated with China's OFDI; (3) the
   indicators imply the potential struggle for concept definition as well as
   validity and reliability of the data."
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Do institutional distances matter for Chinese FDI in Latin America?
