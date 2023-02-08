@@ -40,16 +40,30 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Chinese
+          description: 100%
+        - name: English
+          description: 85%
+        - name: Spanish
+          description: 75%
+        - name: Catalan
+          description: 50%
+        - name: Word
           description: 90%
+        - name: Excel
+          description: 75%
+        - name: PowerPoint
+          description: 75%
+        - name: R
+          description: 50%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Stata
+          description: 75%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Python
+          description: 20%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -84,7 +98,7 @@ sections:
           location: Beijing
           date_start: '2014-08-01'
           date_end: '2018-09-15'
-          description: marketing in Latin America, coordination of international biddings.
+          description: Marketing in Latin America, coordination of international biddings.
     design:
       columns: '2'
   - block: markdown
