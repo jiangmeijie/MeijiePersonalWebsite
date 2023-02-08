@@ -12,6 +12,30 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: collection
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: features
     content:
       title: Skills
@@ -110,30 +134,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
