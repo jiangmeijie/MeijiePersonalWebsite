@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 publication: VI Congreso Internacional de Estudios del Desarrollo
-publication_short: VI CIED
+publication_short: ""
 abstract: >-
   Along with the presence of the Global South as a relevant actor and global
   force, the world has become increasingly complex and heterogeneous. This paper
@@ -32,7 +32,7 @@ abstract: >-
 
 
   Keywords: China, Latin America, investment, institutional distance, South-South cooperation.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
