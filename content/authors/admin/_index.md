@@ -3,10 +3,7 @@ title: JIANG Meijie 蒋梅杰
 role: Doctor of Law by Universitat Pompeu Fabra
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,16 +23,7 @@ social:
     label: Linkedin
 organizations: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
