@@ -31,9 +31,15 @@ abstract: >-
   Keywords: China, network, foreign policy, norm-making, BRICS
 draft: false
 featured: false
+tags:
+  - China
+  - network
+  - foreign_policy
+  - norm-making
+  - BRICS
 image:
   filename: bookchapter-212x300.webp
   focal_point: Smart
   preview_only: false
-date: 2023-02-01T16:13:12.240Z
+date: 2021-11-15T16:13:12.240Z
 ---
