@@ -34,6 +34,12 @@ abstract: >-
   Keywords: China, Latin America, investment, institutional distance, South-South cooperation.
 draft: false
 featured: false
+tags:
+  - China
+  - Latin_America
+  - investment
+  - Institutional_distance
+  - South-South_cooperation
 image:
   filename: featured
   focal_point: Smart
