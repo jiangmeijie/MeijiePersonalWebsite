@@ -52,7 +52,7 @@ sections:
       items:
         - title: Lecturer
           company: Pompeu Fabra University
-          company_url: 'www.upf.edu'
+          company_url: ''
           location: Barcelona
           date_start: '2018-10-01'
           date_end: ''
@@ -64,11 +64,16 @@ sections:
             
         - title: Business Manager
           company: China Railway 24th Bureau Co.,Ltd
-          company_url: 'www.cr24b.com'
+          company_url: ''
           location: Beijing
           date_start: '2014-08-01'
           date_end: '2018-09-15'
-          description: Marketing in Latin America, coordination of international biddings.
+          description: |2-
+              Responsibilities include:
+
+              * Marketing in Latin America
+              * International biddings
+              * Translation and interpretation
     design:
       columns: '2'
   - block: contact
