@@ -1,6 +1,7 @@
 ---
-title: China networking the world
-subtitle: A network approach of the Chinese strategies in normative shaping
+title: "China networking the world: a network approach of the Chinese strategies
+  in normative shaping"
+subtitle: ""
 publication_types:
   - "6"
 authors:
