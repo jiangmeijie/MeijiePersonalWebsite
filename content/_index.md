@@ -52,7 +52,7 @@ sections:
       items:
         - title: Lecturer
           company: Pompeu Fabra University
-          company_url: 'upf.edu'
+          company_url: 'www.upf.edu'
           location: Barcelona
           date_start: '2018-10-01'
           date_end: ''
@@ -64,7 +64,7 @@ sections:
             
         - title: Business Manager
           company: China Railway 24th Bureau Co.,Ltd
-          company_url: ''
+          company_url: 'www.cr24b.com'
           location: Beijing
           date_start: '2014-08-01'
           date_end: '2018-09-15'
