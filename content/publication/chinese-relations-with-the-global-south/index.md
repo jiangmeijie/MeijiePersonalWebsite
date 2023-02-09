@@ -6,10 +6,9 @@ publication_types:
 authors:
   - admin
 publication: IDEES
-abstract: >-
-  Over the past decades, China has significantly enhanced its national strength
-  and has arisen as the second-largest economy in the world. Meanwhile, Beijing
-  has become enthusiastic about developing South-South relations through
+abstract: "Over the past decades, China has significantly enhanced its national
+  strength and has arisen as the second-largest economy in the world. Meanwhile,
+  Beijing has become enthusiastic about developing South-South relations through
   bilateral and multilateral mechanisms. This paper looks into the changes and
   continuities of Sino-Latin American relations to observe Chinese strategic
   calculations and motivations behind China´s engagement with the Global South.
@@ -20,12 +19,14 @@ abstract: >-
   even after the 2008 economic crisis; third, China offers alternative
   development cooperation, which is different from Washington Consensus; forth,
   the current pandemic poses both challenges and opportunities for Sino-Latin
-  American relations in the future.
-
-
-  Keywords: Global South, China, Latin America, economic development
+  American relations in the future."
 draft: false
 featured: false
+tags:
+  - Global_South
+  - China
+  - Latin_America
+  - economic_development
 image:
   filename: featured
   focal_point: Smart
