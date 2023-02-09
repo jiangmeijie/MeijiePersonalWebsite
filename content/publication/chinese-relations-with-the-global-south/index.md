@@ -28,8 +28,9 @@ tags:
   - Latin_America
   - economic_development
 image:
-  filename: featured
+  filename: https://revistaidees.cat/relacions-xineses-amb-el-sud-global-evidencies-des-de-lamerica-llatina/
   focal_point: Smart
   preview_only: false
 date: 2021-04-17T15:29:44.503Z
 ---
+<https://revistaidees.cat/relacions-xineses-amb-el-sud-global-evidencies-des-de-lamerica-llatina/>
