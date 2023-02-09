@@ -6,13 +6,12 @@ authors:
   - admin
 publication: VI Congreso Internacional de Estudios del Desarrollo
 publication_short: ""
-abstract: >-
-  Along with the presence of the Global South as a relevant actor and global
-  force, the world has become increasingly complex and heterogeneous. This paper
-  focuses on the burgeoning economic cooperation between the largest emerging
-  economy, China, and an increasingly important region, Latin America. Since
-  China’s presence in Latin America, there have been ongoing debates on what
-  drives Chinese investments in the region. Yet, there is little consensus
+abstract: Along with the presence of the Global South as a relevant actor and
+  global force, the world has become increasingly complex and heterogeneous.
+  This paper focuses on the burgeoning economic cooperation between the largest
+  emerging economy, China, and an increasingly important region, Latin America.
+  Since China’s presence in Latin America, there have been ongoing debates on
+  what drives Chinese investments in the region. Yet, there is little consensus
   regarding the impact of institutional distances on investment flows among
   developing countries. Using panel data for Chinese FDI stock in 33 Latin
   American countries between 1996 and 2018, the empirical study applies an
@@ -29,9 +28,6 @@ abstract: >-
   A better understanding of this topic will shed more light on the strategic
   considerations behind China's ever-expanding economic power and influence as
   well as China ́s impact on both Global South and the world.
-
-
-  Keywords: China, Latin America, investment, institutional distance, South-South cooperation.
 draft: false
 featured: false
 tags:
