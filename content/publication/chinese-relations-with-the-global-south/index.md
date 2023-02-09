@@ -1,6 +1,6 @@
 ---
-title: Chinese relations with the Global South
-subtitle: Evidences from Latin America
+title: "Chinese relations with the Global South: evidences from Latin America"
+subtitle: ""
 publication_types:
   - "2"
 authors:
