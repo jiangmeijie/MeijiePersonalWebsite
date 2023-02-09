@@ -37,37 +37,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: features
-    id: skills
-    content:
-      title: Skills
-      items:
-        - name: Chinese
-          description: 100%
-        - name: English
-          description: 85%
-        - name: Spanish
-          description: 75%
-        - name: Catalan
-          description: 50%
-        - name: Word
-          description: 90%
-        - name: Excel
-          description: 75%
-        - name: PowerPoint
-          description: 75%
-        - name: R
-          description: 50%
-          icon: r-project
-          icon_pack: fab
-        - name: Stata
-          description: 75%
-          icon: chart-line
-          icon_pack: fas
-        - name: Python
-          description: 20%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     id: experience
     content:
