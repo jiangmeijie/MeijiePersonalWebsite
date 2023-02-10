@@ -64,7 +64,7 @@ sections:
             
         - title: Business Manager
           company: China Railway 24th Bureau Co.,Ltd
-          company_url: ''
+          company_url: 'http://www.cr24b.com'
           location: Beijing
           date_start: '2014-08-01'
           date_end: '2018-09-15'
