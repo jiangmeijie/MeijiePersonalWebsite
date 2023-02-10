@@ -42,3 +42,6 @@ image:
   preview_only: false
 date: 2023-02-08T08:52:40.117Z
 ---
+T﻿he collection of conference proceedings is here: https://www.ibei.org/es/libro-de-actas_296403
+
+M﻿y work is from page 718 to page 735.
