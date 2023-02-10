@@ -19,7 +19,7 @@ abstract: >+
   关键词：拉丁美洲；中国；对外直接投资；引力模型；全球治理；宏观经济
 
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.cnki.com.cn/Article/CJFDTotal-SYJW202202001.htm
 publication_types:
   - "2"
 authors:
