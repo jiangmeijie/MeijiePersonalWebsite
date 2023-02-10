@@ -19,7 +19,7 @@ abstract: >+
   关键词：拉丁美洲；中国；对外直接投资；引力模型；全球治理；宏观经济
 
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+pdf: 试论中国在拉丁美洲直接投资的影响因素——基于宏观政治经济的实证性研究.pdf
 publication_types:
   - "2"
 authors:
