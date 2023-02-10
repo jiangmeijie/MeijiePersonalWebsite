@@ -40,3 +40,4 @@ image:
   preview_only: false
 date: 2021-11-15T16:13:12.240Z
 ---
+T﻿o buy the book, https://editorial.tirant.com/co/libro/actores-regionales-y-normas-globales-la-union-europea-y-los-brics-como-actores-normativos-caterina-garcia-segura-9788413973579 or https://www.amazon.es/Actores-regionales-normas-globales-normativos/dp/8413973570
