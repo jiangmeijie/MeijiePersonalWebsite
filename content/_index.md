@@ -52,7 +52,7 @@ sections:
       items:
         - title: Lecturer
           company: Pompeu Fabra University
-          company_url: ''
+          company_url: 'http://www.upf.edu'
           location: Barcelona
           date_start: '2018-10-01'
           date_end: ''
